@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### curently learning  AWS  solution Architech
- `#ffffff`
-<!--
+###  `#ffffff`
+ ### `rgb(9, 105, 218)`
+ <!--
 **Gangaithiri241991/Gangaithiri241991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
