@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src=”drawing.jpg” alt=”alt text” width=”200"/>
+### curently learning  AWS  solution Architech
+ `#ffffff`
 <!--
 **Gangaithiri241991/Gangaithiri241991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
