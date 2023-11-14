@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi am Gangaithiri Full stack developer 👋
 ### curently learning  AWS  solution Architech
 
  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.pixabay.com/photo/2017/12/28/12/31/sketch-3045125_1280.jpg)
